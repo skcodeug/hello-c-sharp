@@ -1,0 +1,15 @@
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/bin/Debug/net6.0/MyFirstApp
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/bin/Debug/net6.0/MyFirstApp.deps.json
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/bin/Debug/net6.0/MyFirstApp.runtimeconfig.json
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/bin/Debug/net6.0/MyFirstApp.dll
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/bin/Debug/net6.0/MyFirstApp.pdb
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.AssemblyReference.cache
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.AssemblyInfo.cs
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.dll
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/refint/MyFirstApp.dll
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.pdb
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/MyFirstApp.genruntimeconfig.cache
+/Users/skasirye/Documents/Workspace/Workspace 18May2020/workspace-code/in-cyan/MyFirstApp/obj/Debug/net6.0/ref/MyFirstApp.dll
